@@ -132,4 +132,4 @@ If you have a project in mind or want to make your operations more efficient, ge
 
 I am also available for talks and workshops on Artificial Intelligence and women in technology, inspiring teams and communities and helping them learn.
 
-<div class="cv-email-contenedor"><a class="cv-email" href="mailto:francisca.villagra8@gmail.com?subject=Let's%20talk%20about%20a%20project">Email me</a></div>
+<div class="cv-email-contenedor"><a class="cv-email" href="mailto:francisca.villagra8@gmail.com?subject=Let%27s%20talk%20about%20a%20project">Email me</a><a class="cv-email" href="mailto:francisca.villagra8@gmail.com?subject=Let%27s%20schedule&amp;body=Hi%20Francisca%2C%0A%0ALet%27s%20schedule%20a%20meeting.">Let's schedule</a></div>
