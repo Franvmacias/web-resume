@@ -13,5 +13,6 @@ format:
     toc: false
     page-layout: article
     embed-resources: false
+    include-in-header: header.html
 
 lang: es
