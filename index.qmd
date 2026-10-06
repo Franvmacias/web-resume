@@ -93,3 +93,13 @@ lista(unlist(cv$certificaciones))
 #| results: asis
 cat(cv$idiomas, "\n")
 ```
+
+## Un poco más allá de los datos
+
+Fuera de las hojas de cálculo, las consultas SQL y las metodologías ágiles, hay una persona con múltiples intereses que alimentan mi perspectiva analítica.
+
+Me define una curiosidad inagotable 🔍: siempre estoy buscando entender cómo funcionan las cosas, explorar nuevas tecnologías o aprender algo totalmente distinto por puro gusto. Esa misma chispa me convierte en una lectora empedernida 📚, con la debilidad de acumular siempre más libros de los que el tiempo permite leer.
+
+Cuando apago la pantalla, me encuentras disfrutando de la buena cocina🍳 tanto experimentando con recetas caseras como descubriendo nuevos sabores o, de vez en cuando, saliendo a correr🏃‍♀️ para poner la mente en blanco y recargar energía.
+
+Al final, creo que esa combinación de orden técnico y curiosidad ecléctica es la que hace que cada proyecto (y cada día) sea interesante ✨.
