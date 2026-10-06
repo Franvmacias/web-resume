@@ -10,6 +10,19 @@ cv <- read_yaml("cv.yml")
 
 # Los textos del YAML usan **negrita** de Markdown; se emiten tal cual.
 lista <- function(x) cat(paste0("- ", x, collapse = "\n"), "\n\n")
+fecha_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub('"', "&quot;", x, fixed = TRUE)
+  sprintf('<span class="cv-fecha" role="text" aria-label="%s" data-fecha="%s"></span>', x, x)
+}
+proteger_fechas <- function(x) {
+  patron <- "[0-9]{2}/[0-9]{4}"
+  coincidencias <- gregexpr(patron, x, perl = TRUE)
+  fechas <- regmatches(x, coincidencias)[[1]]
+  if (length(fechas) == 0 || identical(fechas, character(0))) return(x)
+  regmatches(x, coincidencias) <- list(vapply(fechas, fecha_html, character(1)))
+  x
+}
 ```
 
 ```{r}
@@ -48,7 +61,7 @@ for (e in cv$experiencia) {
 <div class="cv-cargo"><div class="cv-rol">%s</div><div class="cv-periodo">%s</div></div>
 <div class="cv-empresa">%s · %s</div>
 
-', e$cargo, e$periodo, e$empresa, e$lugar))
+', e$cargo, fecha_html(e$periodo), e$empresa, e$lugar))
   lista(unlist(e$logros))
   cat("</div>\n\n")
 }
@@ -60,7 +73,7 @@ for (e in cv$experiencia) {
 #| echo: false
 #| results: asis
 lista(vapply(cv$educacion, function(x)
-  sprintf("**%s** — %s, %s", x$titulo, x$institucion, x$periodo), ""))
+  sprintf("**%s** — %s, %s", x$titulo, x$institucion, proteger_fechas(x$periodo)), ""))
 ```
 
 ## Habilidades técnicas
@@ -84,7 +97,7 @@ cat(cv$habilidades_profesionales, "\n")
 ```{r}
 #| echo: false
 #| results: asis
-lista(unlist(cv$certificaciones))
+lista(vapply(unlist(cv$certificaciones), proteger_fechas, ""))
 ```
 
 ## Idiomas

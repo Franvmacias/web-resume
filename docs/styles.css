@@ -42,6 +42,8 @@ h2 { font-size: 1.2rem; text-transform: uppercase; letter-spacing: .06em; color:
 .cv-cargo .cv-rol { font-weight: 700; font-size: 1.05rem; }
 .cv-cargo .cv-periodo { color: #fff; background: var(--acento); font-size: .85rem; font-weight: 600;
   padding: .15rem .7rem; border-radius: 999px; white-space: nowrap; }
+.cv-fecha::before { content: attr(data-fecha); }
+.cv-periodo .cv-fecha { color: #fff; }
 a[x-apple-data-detectors] {
   color: inherit !important; font-family: inherit !important; font-size: inherit !important;
   font-weight: inherit !important; line-height: inherit !important;

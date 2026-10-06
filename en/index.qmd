@@ -20,7 +20,7 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 ## Professional Experience
 
 <div class="cv-bloque visible">
-<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo">07/2025 – 08/2026</div></div>
+<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="07/2025 – 08/2026" data-fecha="07/2025 – 08/2026"></span></div></div>
 <div class="cv-empresa">CMPC · Santiago, Chile</div>
 <ul>
 <li>Designed the functional architecture and engineering of the Compliance Data Warehouse on Google Cloud Platform (GCP), bridging Business, Compliance and IT across the organization.</li>
@@ -30,7 +30,7 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 </ul>
 </div>
 <div class="cv-bloque visible">
-<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo">07/2024 – 07/2025</div></div>
+<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="07/2024 – 07/2025" data-fecha="07/2024 – 07/2025"></span></div></div>
 <div class="cv-empresa">Mallplaza · Santiago, Chile</div>
 <ul>
 <li>Led end-to-end development and production rollout of SD Billing, an enterprise billing platform built on <strong>SAP</strong>, reaching <strong>over 100 monthly invoicing operations within just 3 months</strong> of launch.</li>
@@ -41,7 +41,7 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 </ul>
 </div>
 <div class="cv-bloque visible">
-<div class="cv-cargo"><div class="cv-rol">Data Scientist</div><div class="cv-periodo">08/2022 – 07/2024</div></div>
+<div class="cv-cargo"><div class="cv-rol">Data Scientist</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="08/2022 – 07/2024" data-fecha="08/2022 – 07/2024"></span></div></div>
 <div class="cv-empresa">Mallplaza · Santiago, Chile</div>
 <ul>
 <li>Built and deployed to production the quantitative risk model for Bad Debt Provision Calculation, <strong>reducing bad debt provisions by 18%</strong>.</li>
@@ -50,7 +50,7 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 </ul>
 </div>
 <div class="cv-bloque visible">
-<div class="cv-cargo"><div class="cv-rol">Data Management Specialist II</div><div class="cv-periodo">12/2019 – 08/2022</div></div>
+<div class="cv-cargo"><div class="cv-rol">Data Management Specialist II</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="12/2019 – 08/2022" data-fecha="12/2019 – 08/2022"></span></div></div>
 <div class="cv-empresa">Experian · Santiago, Chile</div>
 <ul>
 <li>Reduced data availability latency from monthly and quarterly schemas to <strong>daily frequency (Daily Batch)</strong> for banking sector clients.</li>
@@ -59,7 +59,7 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 </ul>
 </div>
 <div class="cv-bloque visible">
-<div class="cv-cargo"><div class="cv-rol">Customer Care Specialist II</div><div class="cv-periodo">06/2016 – 12/2019</div></div>
+<div class="cv-cargo"><div class="cv-rol">Customer Care Specialist II</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="06/2016 – 12/2019" data-fecha="06/2016 – 12/2019"></span></div></div>
 <div class="cv-empresa">Experian · Santiago, Chile</div>
 <ul>
 <li>Ensured regulatory compliance with CFPB (Consumer Financial Protection Bureau, United States) standards in credit report management.</li>
@@ -69,11 +69,11 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 
 ## Education
 
-- **Postgraduate Diploma in Artificial Intelligence, Emerging Technologies & Digital Leadership** — Pontificia Universidad Católica de Chile, 10/2025 – 07/2026
-- **Engineer's Degree, Information & Management Control** — Universidad Andrés Bello, 03/2022 – 09/2024
-- **Diploma, Data Science** — Coderhouse, 04/2023 – 10/2023
+- **Postgraduate Diploma in Artificial Intelligence, Emerging Technologies & Digital Leadership** — Pontificia Universidad Católica de Chile, <span class="cv-fecha" role="text" aria-label="10/2025" data-fecha="10/2025"></span> – <span class="cv-fecha" role="text" aria-label="07/2026" data-fecha="07/2026"></span>
+- **Engineer's Degree, Information & Management Control** — Universidad Andrés Bello, <span class="cv-fecha" role="text" aria-label="03/2022" data-fecha="03/2022"></span> – <span class="cv-fecha" role="text" aria-label="09/2024" data-fecha="09/2024"></span>
+- **Diploma, Data Science** — Coderhouse, <span class="cv-fecha" role="text" aria-label="04/2023" data-fecha="04/2023"></span> – <span class="cv-fecha" role="text" aria-label="10/2023" data-fecha="10/2023"></span>
 - **Associate's Degree, Computer Programming** — AIEP Professional Institute, 2018 – 2020
-- **English–Spanish Translator** — Ucinf, 03/2011 – 04/2015
+- **English–Spanish Translator** — Ucinf, <span class="cv-fecha" role="text" aria-label="03/2011" data-fecha="03/2011"></span> – <span class="cv-fecha" role="text" aria-label="04/2015" data-fecha="04/2015"></span>
 
 ## Technical Skills
 
@@ -85,18 +85,18 @@ Digital product management, business process modeling in BPMN notation, UiPath P
 
 ## Certifications
 
-- Claude 101, Anthropic, 08/2026
-- Google Project Management Professional Certificate (v.3), Coursera, 07/2026
-- Agile Project Management, Google, 07/2026
-- Project Execution: Running the Project, Google, 07/2026
+- Claude 101, Anthropic, <span class="cv-fecha" role="text" aria-label="08/2026" data-fecha="08/2026"></span>
+- Google Project Management Professional Certificate (v.3), Coursera, <span class="cv-fecha" role="text" aria-label="07/2026" data-fecha="07/2026"></span>
+- Agile Project Management, Google, <span class="cv-fecha" role="text" aria-label="07/2026" data-fecha="07/2026"></span>
+- Project Execution: Running the Project, Google, <span class="cv-fecha" role="text" aria-label="07/2026" data-fecha="07/2026"></span>
 - Scrum Master, Certiprof
 - Lean Six Sigma Green Belt and Yellow Belt
-- Generative AI: Elevate Your Data Science Career, IBM, 02/2025
-- IBM Data Science Practitioner Certificate, IBM, 10/2024
-- IBM Artificial Intelligence Practitioner Certificate V2, IBM, 09/2024
-- Digital Transformation Management, Arizona State University, 09/2024
-- Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, 03/2024
-- Engineering Project Evaluation, University of Miami, 01/2024
+- Generative AI: Elevate Your Data Science Career, IBM, <span class="cv-fecha" role="text" aria-label="02/2025" data-fecha="02/2025"></span>
+- IBM Data Science Practitioner Certificate, IBM, <span class="cv-fecha" role="text" aria-label="10/2024" data-fecha="10/2024"></span>
+- IBM Artificial Intelligence Practitioner Certificate V2, IBM, <span class="cv-fecha" role="text" aria-label="09/2024" data-fecha="09/2024"></span>
+- Digital Transformation Management, Arizona State University, <span class="cv-fecha" role="text" aria-label="09/2024" data-fecha="09/2024"></span>
+- Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, <span class="cv-fecha" role="text" aria-label="03/2024" data-fecha="03/2024"></span>
+- Engineering Project Evaluation, University of Miami, <span class="cv-fecha" role="text" aria-label="01/2024" data-fecha="01/2024"></span>
 
 ## Languages
 
