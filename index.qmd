@@ -1,0 +1,95 @@
+---
+title: "Francisca Villagra Macías — CV"
+include-after-body: reveal.html
+---
+
+```{r}
+#| include: false
+library(yaml)
+cv <- read_yaml("cv.yml")
+
+# Los textos del YAML usan **negrita** de Markdown; se emiten tal cual.
+lista <- function(x) cat(paste0("- ", x, collapse = "\n"), "\n\n")
+```
+
+```{r}
+#| echo: false
+#| results: asis
+cat(sprintf('
+::: {.cv-cabecera .reveal}
+<img class="cv-foto" src="foto.png" alt="Foto de %s">
+
+# %s
+<div class="cv-titulo">%s</div>
+<div class="cv-contacto"><span>%s</span><span>%s</span></div>
+<a class="cv-linkedin" href="%s" target="_blank" rel="noopener" aria-label="LinkedIn de %s">
+<i class="bi bi-linkedin"></i> LinkedIn</a>
+:::
+', cv$nombre, cv$nombre, cv$titulo, cv$ubicacion, cv$email, cv$linkedin, cv$nombre))
+```
+
+## Resumen profesional
+
+```{r}
+#| echo: false
+#| results: asis
+cat(cv$resumen, "\n")
+```
+
+## Experiencia profesional
+
+```{r}
+#| echo: false
+#| results: asis
+for (e in cv$experiencia) {
+  cat(sprintf('
+<div class="cv-bloque reveal">
+<div class="cv-cargo"><div class="cv-rol">%s</div><div class="cv-periodo">%s</div></div>
+<div class="cv-empresa">%s · %s</div>
+
+', e$cargo, e$periodo, e$empresa, e$lugar))
+  lista(unlist(e$logros))
+  cat("</div>\n\n")
+}
+```
+
+## Educación
+
+```{r}
+#| echo: false
+#| results: asis
+lista(vapply(cv$educacion, function(x)
+  sprintf("**%s** — %s, %s", x$titulo, x$institucion, x$periodo), ""))
+```
+
+## Habilidades técnicas
+
+```{r}
+#| echo: false
+#| results: asis
+cat(cv$habilidades_tecnicas, "\n")
+```
+
+## Habilidades profesionales
+
+```{r}
+#| echo: false
+#| results: asis
+cat(cv$habilidades_profesionales, "\n")
+```
+
+## Certificaciones
+
+```{r}
+#| echo: false
+#| results: asis
+lista(unlist(cv$certificaciones))
+```
+
+## Idiomas
+
+```{r}
+#| echo: false
+#| results: asis
+cat(cv$idiomas, "\n")
+```

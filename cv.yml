@@ -1,0 +1,96 @@
+nombre: Francisca Villagra Macías
+titulo: Product Owner · Ingeniera en Información y Control de Gestión
+ubicacion: Santiago, Chile
+email: francisca.villagra8@gmail.com
+linkedin: https://www.linkedin.com/in/franciscavmacias
+
+resumen: >
+  Product Owner e Ingeniera en Información y Control de Gestión con diez años de
+  experiencia convirtiendo problemas complejos de datos y riesgo en productos
+  digitales en producción. He liderado ciclos completos de producto —de la
+  definición estratégica a la adopción por usuarios finales— en retail, forestal
+  y servicios financieros, incluidos seis años en Experian bajo normativa CFPB de
+  Estados Unidos. Gestiono producto con conocimiento directo del stack técnico:
+  SQL, Python, Google Cloud Platform (GCP) y Tableau, e implementé en producción
+  modelos de machine learning (K-Means, XGBoost) para el cálculo de riesgo.
+
+experiencia:
+  - cargo: Product Owner
+    empresa: CMPC
+    periodo:  07/2025 – 08/2026
+    lugar: Santiago, Chile
+    logros:
+      - Diseñé la arquitectura e ingeniería funcional del Data Warehouse de Compliance en Google Cloud Platform (GCP), articulando de forma transversal a Negocio, Compliance y Tecnología.
+      - Centralicé los datos y automaticé la reportería que antes se producía manualmente, **reduciendo en 70% las horas hombre** dedicadas a generar reportes y métricas.
+      - Lideré la modernización de la línea de denuncias corporativa en cinco tracks técnicos paralelos, coordinando proveedores internos y externos.
+      - Gestioné la evolución de plataformas web, CMS y canales de comunicación digital mediante backlogs priorizados con datos, optimizando flujos conversacionales y midiendo el impacto en la conversión.
+  - cargo: Product Owner
+    empresa: Mallplaza
+    periodo:  07/2024 – 07/2025
+    lugar: Santiago, Chile
+    logros:
+      - Lideré el desarrollo end-to-end y el despliegue en producción de SD Billing, plataforma de facturación enterprise **sobre SAP**, alcanzando **más de 100 facturaciones mensuales en solo 3 meses** desde el lanzamiento.
+      - Implementé un proceso de conciliación de pagos que **incrementó la eficiencia en 40%**, reduciendo los pagos no identificados en el área de cobranza.
+      - Reemplacé formularios extensos por un flujo ágil que redujo drásticamente los tiempos de gestión e impulsó las ventas del equipo Comercial.
+      - Aseguré la adopción operacional y la continuidad del servicio mediante planes de enablement y gestión del cambio con usuarios clave.
+      - Coordiné equipos de ingeniería y diseño bajo marcos ágiles, gestionando visión de producto y backlog.
+  - cargo: Data Scientist
+    empresa: Mallplaza
+    periodo: 08/2022 – 07/2024
+    lugar: Santiago, Chile
+    logros:
+      - Desarrollé y desplegué en producción el modelo cuantitativo de riesgo para el Cálculo de Provisiones Incobrables, **reduciendo las provisiones incobrables en 18%**.
+      - Instrumenté automatizaciones end-to-end que elevaron la precisión en el seguimiento de KPIs estratégicos.
+      - Construí visualizaciones y análisis geoespaciales para soporte a la decisión, usando SQL, Python, Google Cloud Platform (GCP), Tableau y QGIS.
+  - cargo: Data Management Specialist II
+    empresa: Experian
+    periodo: 12/2019 – 08/2022
+    lugar: Santiago, Chile
+    logros:
+      - Reduje la latencia de disponibilidad de la información de esquemas mensuales y trimestrales a **frecuencia diaria (Daily Batch)** para clientes del sector bancario.
+      - Desplegué dashboards automatizados que aceleraron la toma de decisiones estratégicas y maximizaron el valor analítico de los datos disponibles.
+      - Desarrollé procesos de extracción, transformación y carga (ETL) sobre IBM Db2 e IBM Mainframe, con Alteryx y Tableau.
+  - cargo: Customer Care Specialist II
+    empresa: Experian
+    periodo: 06/2016 – 12/2019
+    lugar: Santiago, Chile
+    logros:
+      - Garanticé el cumplimiento regulatorio de la normativa CFPB (Consumer Financial Protection Bureau, Estados Unidos) en la gestión de reportes de crédito.
+      - Rediseñé protocolos de atención, elevando los indicadores de satisfacción del cliente (CSAT) y mitigando el riesgo operacional de no conformidad.
+
+educacion:
+  - titulo: Diplomado en Inteligencia Artificial, Tecnologías Emergentes y Liderazgo Digital
+    institucion: Pontificia Universidad Católica de Chile
+    periodo: 10/2025 – 07/2026
+  - titulo: Ingeniería en Información y Control de Gestión
+    institucion: Universidad Andrés Bello
+    periodo: 03/2022 – 09/2024, titulada
+  - titulo: Diploma en Data Science
+    institucion: Coderhouse
+    periodo: 04/2023 – 10/2023
+  - titulo: Programación Computacional
+    institucion: Instituto Profesional AIEP
+    periodo: 2018 – 2020
+  - titulo: Traductor Inglés-Español
+    institucion: Ucinf
+    periodo: 03/2011 – 04/2015
+
+habilidades_tecnicas: Bizagi (modelado BPMN), UiPath Process Mining, SAP (facturación, módulo SD), SQL, Python, Google Cloud Platform (GCP), BigQuery, Vertex, Azure, Power BI (nivel experto), Tableau, Excel avanzado, ETL, Alteryx, IBM Db2, IBM Mainframe, QGIS, Sistemas de Información Geográfica (GIS), Power Apps, Power Automate, Jira, Confluence, MS Project, Project Online/Project 365, Triskell.
+
+habilidades_profesionales: Gestión de productos digitales, modelado de procesos y sistemas en notación BPMN, UiPath Process Mining para discovery del proceso actual, Value Proposition Canvas para levantamiento de necesidades, gestión de proyectos, marcos ágiles (Scrum, Kanban), priorización de backlog, modelamiento de datos, modelos de riesgo cuantitativo, definición y seguimiento de KPIs, automatización de procesos, gestión de stakeholders, gestión del cambio, cumplimiento regulatorio.
+
+certificaciones:
+  - "Claude 101, Anthropic, 08/2026"
+  - "Google Project Management Professional Certificate (v.3), Coursera, 07/2026"
+  - "Agile Project Management, Google, 07/2026"
+  - "Project Execution: Running the Project, Google, 07/2026"
+  - "Scrum Master, Certiprof"
+  - "Lean Six Sigma Green Belt y Yellow Belt"
+  - "Generative AI: Elevate Your Data Science Career, IBM, 02/2025"
+  - "IBM Data Science Practitioner Certificate, IBM, 10/2024"
+  - "IBM Artificial Intelligence Practitioner Certificate V2, IBM, 09/2024"
+  - "Digital Transformation Management, Arizona State University, 09/2024"
+  - "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, 03/2024"
+  - "Engineering Project Evaluation, University of Miami, 01/2024"
+
+idiomas: Español (nativo), Inglés (avanzado, título de Traductor Inglés-Español).

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "",
+    "text": "Product Owner · Ingeniera en Información y Control de Gestión\n\n\nSantiago, Chilefrancisca.villagra8@gmail.com\n\n  LinkedIn"
+  },
+  {
+    "objectID": "index.html#resumen-profesional",
+    "href": "index.html#resumen-profesional",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Resumen profesional",
+    "text": "Resumen profesional\nProduct Owner e Ingeniera en Información y Control de Gestión con diez años de experiencia convirtiendo problemas complejos de datos y riesgo en productos digitales en producción. He liderado ciclos completos de producto —de la definición estratégica a la adopción por usuarios finales— en retail, forestal y servicios financieros, incluidos seis años en Experian bajo normativa CFPB de Estados Unidos. Gestiono producto con conocimiento directo del stack técnico: SQL, Python, Google Cloud Platform (GCP) y Tableau, e implementé en producción modelos de machine learning (K-Means, XGBoost) para el cálculo de riesgo."
+  },
+  {
+    "objectID": "index.html#experiencia-profesional",
+    "href": "index.html#experiencia-profesional",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Experiencia profesional",
+    "text": "Experiencia profesional\n\n\n\nProduct Owner\n\n\n07/2025 – 08/2026\n\n\n\nCMPC · Santiago, Chile\n\n\nDiseñé la arquitectura e ingeniería funcional del Data Warehouse de Compliance en Google Cloud Platform (GCP), articulando de forma transversal a Negocio, Compliance y Tecnología.\nCentralicé los datos y automaticé la reportería que antes se producía manualmente, reduciendo en 70% las horas hombre dedicadas a generar reportes y métricas.\nLideré la modernización de la línea de denuncias corporativa en cinco tracks técnicos paralelos, coordinando proveedores internos y externos.\nGestioné la evolución de plataformas web, CMS y canales de comunicación digital mediante backlogs priorizados con datos, optimizando flujos conversacionales y midiendo el impacto en la conversión.\n\n\n\n\n\nProduct Owner\n\n\n07/2024 – 07/2025\n\n\n\nMallplaza · Santiago, Chile\n\n\nLideré el desarrollo end-to-end y el despliegue en producción de SD Billing, plataforma de facturación enterprise sobre SAP, alcanzando más de 100 facturaciones mensuales en solo 3 meses desde el lanzamiento.\nImplementé un proceso de conciliación de pagos que incrementó la eficiencia en 40%, reduciendo los pagos no identificados en el área de cobranza.\nReemplacé formularios extensos por un flujo ágil que redujo drásticamente los tiempos de gestión e impulsó las ventas del equipo Comercial.\nAseguré la adopción operacional y la continuidad del servicio mediante planes de enablement y gestión del cambio con usuarios clave.\nCoordiné equipos de ingeniería y diseño bajo marcos ágiles, gestionando visión de producto y backlog.\n\n\n\n\n\nData Scientist\n\n\n08/2022 – 07/2024\n\n\n\nMallplaza · Santiago, Chile\n\n\nDesarrollé y desplegué en producción el modelo cuantitativo de riesgo para el Cálculo de Provisiones Incobrables, reduciendo las provisiones incobrables en 18%.\nInstrumenté automatizaciones end-to-end que elevaron la precisión en el seguimiento de KPIs estratégicos.\nConstruí visualizaciones y análisis geoespaciales para soporte a la decisión, usando SQL, Python, Google Cloud Platform (GCP), Tableau y QGIS.\n\n\n\n\n\nData Management Specialist II\n\n\n12/2019 – 08/2022\n\n\n\nExperian · Santiago, Chile\n\n\nReduje la latencia de disponibilidad de la información de esquemas mensuales y trimestrales a frecuencia diaria (Daily Batch) para clientes del sector bancario.\nDesplegué dashboards automatizados que aceleraron la toma de decisiones estratégicas y maximizaron el valor analítico de los datos disponibles.\nDesarrollé procesos de extracción, transformación y carga (ETL) sobre IBM Db2 e IBM Mainframe, con Alteryx y Tableau.\n\n\n\n\n\nCustomer Care Specialist II\n\n\n06/2016 – 12/2019\n\n\n\nExperian · Santiago, Chile\n\n\nGaranticé el cumplimiento regulatorio de la normativa CFPB (Consumer Financial Protection Bureau, Estados Unidos) en la gestión de reportes de crédito.\nRediseñé protocolos de atención, elevando los indicadores de satisfacción del cliente (CSAT) y mitigando el riesgo operacional de no conformidad."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Educación",
+    "text": "Educación\n\nDiplomado en Inteligencia Artificial, Tecnologías Emergentes y Liderazgo Digital — Pontificia Universidad Católica de Chile, 10/2025 – 07/2026\nIngeniería en Información y Control de Gestión — Universidad Andrés Bello, 03/2022 – 09/2024, titulada\nDiploma en Data Science — Coderhouse, 04/2023 – 10/2023\nProgramación Computacional — Instituto Profesional AIEP, 2018 – 2020\nTraductor Inglés-Español — Ucinf, 03/2011 – 04/2015"
+  },
+  {
+    "objectID": "index.html#habilidades-técnicas",
+    "href": "index.html#habilidades-técnicas",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Habilidades técnicas",
+    "text": "Habilidades técnicas\nBizagi (modelado BPMN), UiPath Process Mining, SAP (facturación, módulo SD), SQL, Python, Google Cloud Platform (GCP), BigQuery, Vertex, Azure, Power BI (nivel experto), Tableau, Excel avanzado, ETL, Alteryx, IBM Db2, IBM Mainframe, QGIS, Sistemas de Información Geográfica (GIS), Power Apps, Power Automate, Jira, Confluence, MS Project, Project Online/Project 365, Triskell."
+  },
+  {
+    "objectID": "index.html#habilidades-profesionales",
+    "href": "index.html#habilidades-profesionales",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Habilidades profesionales",
+    "text": "Habilidades profesionales\nGestión de productos digitales, modelado de procesos y sistemas en notación BPMN, UiPath Process Mining para discovery del proceso actual, Value Proposition Canvas para levantamiento de necesidades, gestión de proyectos, marcos ágiles (Scrum, Kanban), priorización de backlog, modelamiento de datos, modelos de riesgo cuantitativo, definición y seguimiento de KPIs, automatización de procesos, gestión de stakeholders, gestión del cambio, cumplimiento regulatorio."
+  },
+  {
+    "objectID": "index.html#certificaciones",
+    "href": "index.html#certificaciones",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Certificaciones",
+    "text": "Certificaciones\n\nClaude 101, Anthropic, 08/2026\nGoogle Project Management Professional Certificate (v.3), Coursera, 07/2026\nAgile Project Management, Google, 07/2026\nProject Execution: Running the Project, Google, 07/2026\nScrum Master, Certiprof\nLean Six Sigma Green Belt y Yellow Belt\nGenerative AI: Elevate Your Data Science Career, IBM, 02/2025\nIBM Data Science Practitioner Certificate, IBM, 10/2024\nIBM Artificial Intelligence Practitioner Certificate V2, IBM, 09/2024\nDigital Transformation Management, Arizona State University, 09/2024\nGoogle Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, 03/2024\nEngineering Project Evaluation, University of Miami, 01/2024"
+  },
+  {
+    "objectID": "index.html#idiomas",
+    "href": "index.html#idiomas",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Idiomas",
+    "text": "Idiomas\nEspañol (nativo), Inglés (avanzado, título de Traductor Inglés-Español)."
+  }
+]
