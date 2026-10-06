@@ -20,6 +20,17 @@ Product Owner and Information & Management Control Engineer with ten years of ex
 ## Professional Experience
 
 <div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Independent Consultant</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="08/2026 – Present" data-fecha="08/2026 – Present"></span></div></div>
+<div class="cv-empresa">Independent · Santiago, Chile</div>
+<ul>
+<li>Built functional, user-centered web platforms, developing tailored digital solutions.</li>
+<li>Automated workflows and processes ⚙️ to eliminate manual tasks, reduce errors and optimize operational time.</li>
+<li>Created data visualizations 📊 that turn complex metrics into clear dashboards for strategic decision-making.</li>
+<li>Developed IoT (Internet of Things) projects 🔌 connecting the physical environment with intelligent, automated systems.</li>
+</ul>
+</div>
+
+<div class="cv-bloque visible">
 <div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo"><span class="cv-fecha" role="text" aria-label="07/2025 – 08/2026" data-fecha="07/2025 – 08/2026"></span></div></div>
 <div class="cv-empresa">CMPC · Santiago, Chile</div>
 <ul>
