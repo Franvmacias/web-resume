@@ -21,11 +21,12 @@ header#title-block-header { display: none; }
 }
 .cv-idioma:hover { color: #fff; background: var(--acento); }
 .cv-cita {
-  margin: 2rem 0; padding: 1rem 1.25rem; border-left: 3px solid var(--acento);
+  margin: 2rem 0 .75rem; padding: 1rem 1.25rem; border-left: 3px solid var(--acento);
   background: #f4f7fb; color: var(--suave); font-style: italic;
 }
 .cv-cita p { margin-bottom: .4rem; }
 .cv-cita cite { color: var(--acento); font-style: normal; font-weight: 600; }
+.cv-cita + section h2 { margin-top: .75rem; }
 .cv-email-contenedor { text-align: center; margin: 1.5rem 0 2rem; }
 .cv-email {
   display: inline-block; padding: .65rem 1.5rem; border-radius: 999px; background: #0a66c2;
