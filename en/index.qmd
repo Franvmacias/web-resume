@@ -1,0 +1,135 @@
+---
+title: "Francisca Villagra Macías — CV"
+lang: en
+---
+
+<div class="cv-cabecera">
+<img class="cv-foto" src="../foto.png" alt="Photo of Francisca Villagra Macías">
+
+<h1>Francisca Villagra Macías</h1>
+<a class="cv-idioma" href="../" lang="es">Español</a>
+<div class="cv-titulo">Product Owner · Information &amp; Management Control Engineer</div>
+<div class="cv-contacto"><span>Santiago, Chile</span><span>francisca.villagra8@gmail.com</span></div>
+<a class="cv-linkedin" href="https://www.linkedin.com/in/franciscavmacias" target="_blank" rel="noopener" aria-label="Francisca Villagra Macías on LinkedIn"><i class="bi bi-linkedin"></i> LinkedIn</a>
+</div>
+
+## Professional Summary
+
+Product Owner and Information & Management Control Engineer with ten years of experience turning complex data and risk problems into production-grade digital products. I have led full product cycles — from strategic definition to end-user adoption — across retail, forestry and financial services, including six years at Experian under U.S. CFPB regulation. I manage product with hands-on knowledge of the technical stack: SQL, Python, Google Cloud Platform (GCP) and Tableau, and deployed machine learning models (K-Means, XGBoost) to production for risk scoring.
+
+## Professional Experience
+
+<div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo">07/2025 – 08/2026</div></div>
+<div class="cv-empresa">CMPC · Santiago, Chile</div>
+<ul>
+<li>Designed the functional architecture and engineering of the Compliance Data Warehouse on Google Cloud Platform (GCP), bridging Business, Compliance and IT across the organization.</li>
+<li>Centralized data and automated reporting that was previously produced manually, <strong>cutting the man-hours spent on reports and metrics by 70%</strong>.</li>
+<li>Led the modernization of the corporate whistleblower channel across five parallel technical tracks, coordinating internal and external vendors.</li>
+<li>Drove the evolution of web platforms, CMS and digital communication channels through data-driven backlog prioritization, optimizing conversational flows and measuring conversion impact.</li>
+</ul>
+</div>
+<div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Product Owner</div><div class="cv-periodo">07/2024 – 07/2025</div></div>
+<div class="cv-empresa">Mallplaza · Santiago, Chile</div>
+<ul>
+<li>Led end-to-end development and production rollout of SD Billing, an enterprise billing platform built on <strong>SAP</strong>, reaching <strong>over 100 monthly invoicing operations within just 3 months</strong> of launch.</li>
+<li>Implemented a payment reconciliation process that <strong>increased efficiency by 40%</strong>, reducing unidentified payments in collections.</li>
+<li>Replaced lengthy forms with a streamlined flow that sharply cut processing times and boosted Commercial team sales.</li>
+<li>Secured operational adoption and service continuity through enablement and change management plans with key users.</li>
+<li>Coordinated engineering and design teams under agile frameworks, owning product vision and backlog.</li>
+</ul>
+</div>
+<div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Data Scientist</div><div class="cv-periodo">08/2022 – 07/2024</div></div>
+<div class="cv-empresa">Mallplaza · Santiago, Chile</div>
+<ul>
+<li>Built and deployed to production the quantitative risk model for Bad Debt Provision Calculation, <strong>reducing bad debt provisions by 18%</strong>.</li>
+<li>Instrumented end-to-end automations that improved accuracy in tracking strategic KPIs.</li>
+<li>Developed visualizations and geospatial analysis for decision support using SQL, Python, Google Cloud Platform (GCP), Tableau and QGIS.</li>
+</ul>
+</div>
+<div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Data Management Specialist II</div><div class="cv-periodo">12/2019 – 08/2022</div></div>
+<div class="cv-empresa">Experian · Santiago, Chile</div>
+<ul>
+<li>Reduced data availability latency from monthly and quarterly schemas to <strong>daily frequency (Daily Batch)</strong> for banking sector clients.</li>
+<li>Deployed automated dashboards that accelerated strategic decision-making and maximized the analytical value of available data.</li>
+<li>Developed extract, transform and load (ETL) processes on IBM Db2 and IBM Mainframe, using Alteryx and Tableau.</li>
+</ul>
+</div>
+<div class="cv-bloque visible">
+<div class="cv-cargo"><div class="cv-rol">Customer Care Specialist II</div><div class="cv-periodo">06/2016 – 12/2019</div></div>
+<div class="cv-empresa">Experian · Santiago, Chile</div>
+<ul>
+<li>Ensured regulatory compliance with CFPB (Consumer Financial Protection Bureau, United States) standards in credit report management.</li>
+<li>Redesigned service protocols, raising customer satisfaction indicators (CSAT) and mitigating operational non-compliance risk.</li>
+</ul>
+</div>
+
+## Education
+
+- **Postgraduate Diploma in Artificial Intelligence, Emerging Technologies & Digital Leadership** — Pontificia Universidad Católica de Chile, 10/2025 – 07/2026
+- **Engineer's Degree, Information & Management Control** — Universidad Andrés Bello, 03/2022 – 09/2024
+- **Diploma, Data Science** — Coderhouse, 04/2023 – 10/2023
+- **Associate's Degree, Computer Programming** — AIEP Professional Institute, 2018 – 2020
+- **English–Spanish Translator** — Ucinf, 03/2011 – 04/2015
+
+## Technical Skills
+
+Bizagi (BPMN modeling), UiPath Process Mining, SAP (SD billing), SQL, Python, Google Cloud Platform (GCP), BigQuery, Vertex, Azure, Microsoft Power BI (expert level), Tableau, Advanced Excel, ETL, Alteryx, IBM Db2, IBM Mainframe, QGIS, Geographic Information Systems (GIS), Power Apps, Power Automate, Jira, Confluence, MS Project, Project Online/Project 365, Triskell.
+
+## Professional Skills
+
+Digital product management, business process modeling in BPMN notation, UiPath Process Mining for as-is process discovery, Value Proposition Canvas for needs discovery, project management, agile frameworks (Scrum, Kanban), backlog prioritization, data modeling, quantitative risk modeling, KPI definition and tracking, process automation, stakeholder management, change management, regulatory compliance.
+
+## Certifications
+
+- Claude 101, Anthropic, 08/2026
+- Google Project Management Professional Certificate (v.3), Coursera, 07/2026
+- Agile Project Management, Google, 07/2026
+- Project Execution: Running the Project, Google, 07/2026
+- Scrum Master, Certiprof
+- Lean Six Sigma Green Belt and Yellow Belt
+- Generative AI: Elevate Your Data Science Career, IBM, 02/2025
+- IBM Data Science Practitioner Certificate, IBM, 10/2024
+- IBM Artificial Intelligence Practitioner Certificate V2, IBM, 09/2024
+- Digital Transformation Management, Arizona State University, 09/2024
+- Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, 03/2024
+- Engineering Project Evaluation, University of Miami, 01/2024
+
+## Languages
+
+Spanish (native), English (advanced — certified English–Spanish Translator).
+
+## Beyond the Data
+
+Beyond spreadsheets, SQL queries and agile methodologies, there is a person with many interests that shape my analytical perspective.
+
+I am driven by an insatiable curiosity 🔍: I am always trying to understand how things work, explore new technologies or learn something completely different just for the joy of it. That same spark makes me an avid reader 📚, with a weakness for always collecting more books than time allows me to read.
+
+When I switch off my screen, you will find me enjoying good food🍳, experimenting with homemade recipes or discovering new flavors, or occasionally going for a run🏃‍♀️ to clear my mind and recharge.
+
+Ultimately, I believe this combination of technical rigor and eclectic curiosity is what makes every project (and every day) interesting ✨.
+
+> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+>
+> — Marie Curie
+
+## Shall we turn ideas into real solutions? 💡
+
+If your processes feel slow, your data is scattered, or you feel Artificial Intelligence should be working for you (not the other way around), let's talk.
+
+I can help you:
+
+- Automate data flows ⚙️ to eliminate manual tasks and reduce errors.
+- Integrate AI into your day-to-day🤖 in practical ways to boost your productivity and your team's.
+- Optimize processes and build products 🚀 focused on real value and measurable outcomes.
+
+If you have a project in mind or want to make your operations more efficient, get in touch and let's find the best way to bring it to life. ✉️✨
+
+### 🎤 Looking for a speaker or facilitator?
+
+I am also available for talks and workshops on Artificial Intelligence and women in technology, inspiring teams and communities and helping them learn.
+
+<div class="cv-email-contenedor"><a class="cv-email" href="mailto:francisca.villagra8@gmail.com?subject=Let's%20talk%20about%20a%20project">Email me</a></div>

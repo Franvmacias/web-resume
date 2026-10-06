@@ -15,6 +15,23 @@ header#title-block-header { display: none; }
 }
 .cv-linkedin:hover { background: #004182; }
 .cv-linkedin .bi { font-size: 1.2rem; }
+.cv-idioma {
+  display: inline-block; margin: .1rem 0 .7rem; padding: .3rem .8rem; border: 1px solid var(--acento);
+  border-radius: 999px; color: var(--acento); text-decoration: none; font-size: .9rem; font-weight: 600;
+}
+.cv-idioma:hover { color: #fff; background: var(--acento); }
+.cv-cita {
+  margin: 2rem 0; padding: 1rem 1.25rem; border-left: 3px solid var(--acento);
+  background: #f4f7fb; color: var(--suave); font-style: italic;
+}
+.cv-cita p { margin-bottom: .4rem; }
+.cv-cita cite { color: var(--acento); font-style: normal; font-weight: 600; }
+.cv-email-contenedor { text-align: center; margin: 1.5rem 0 2rem; }
+.cv-email {
+  display: inline-block; padding: .65rem 1.5rem; border-radius: 999px; background: #0a66c2;
+  color: #fff !important; text-decoration: none; font-weight: 600;
+}
+.cv-email:hover { background: #004182; }
 
 h2 { font-size: 1.2rem; text-transform: uppercase; letter-spacing: .06em; color: var(--acento);
      border-bottom: 2px solid var(--acento); padding-bottom: .25rem; margin-top: 2.2rem; }
