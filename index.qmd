@@ -30,11 +30,13 @@ proteger_fechas <- function(x) {
 #| results: asis
 cat(sprintf('
 ::: {.cv-cabecera .reveal}
+<div class="cv-controles">
 <button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Modo oscuro</button>
+<a class="cv-idioma" href="en/" lang="en">English</a>
+</div>
 <img class="cv-foto" src="foto.png" alt="Foto de %s">
 
 # %s
-<a class="cv-idioma" href="en/" lang="en">English</a>
 <div class="cv-titulo">%s</div>
 <div class="cv-contacto"><span>%s</span><span>%s</span></div>
 <a class="cv-linkedin" href="%s" target="_blank" rel="noopener" aria-label="LinkedIn de %s">

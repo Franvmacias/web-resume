@@ -25,9 +25,13 @@ body { color: var(--texto); background: var(--fondo); }
 header#title-block-header { display: none; }
 
 .cv-cabecera { text-align: center; margin: 2rem 0 1.5rem; }
+.cv-controles {
+  display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: .6rem;
+  margin: 0 0 1rem;
+}
 .cv-theme-toggle {
   display: inline-flex; align-items: center; justify-content: center; gap: .4rem;
-  margin: 0 0 1rem; padding: .4rem .9rem; border: 1px solid var(--acento);
+  margin: 0; padding: .4rem .9rem; border: 1px solid var(--acento);
   border-radius: 999px; color: var(--acento); background: transparent;
   font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer;
 }
@@ -45,7 +49,7 @@ header#title-block-header { display: none; }
 .cv-linkedin:hover { background: #004182; }
 .cv-linkedin .bi { font-size: 1.2rem; }
 .cv-idioma {
-  display: inline-block; margin: .1rem 0 .7rem; padding: .3rem .8rem; border: 1px solid var(--acento);
+  display: inline-block; margin: 0; padding: .4rem .9rem; border: 1px solid var(--acento);
   border-radius: 999px; color: var(--acento); text-decoration: none; font-size: .9rem; font-weight: 600;
 }
 .cv-idioma:hover { color: #fff; background: var(--acento); }

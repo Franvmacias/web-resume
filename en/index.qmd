@@ -4,11 +4,13 @@ lang: en
 ---
 
 <div class="cv-cabecera">
+<div class="cv-controles">
 <button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Dark mode</button>
+<a class="cv-idioma" href="../" lang="es">Español</a>
+</div>
 <img class="cv-foto" src="../foto.png" alt="Photo of Francisca Villagra Macías">
 
 <h1>Francisca Villagra Macías</h1>
-<a class="cv-idioma" href="../" lang="es">Español</a>
 <div class="cv-titulo">Product Owner · Information &amp; Management Control Engineer</div>
 <div class="cv-contacto"><span>Santiago, Chile</span><span>francisca.villagra8@gmail.com</span></div>
 <a class="cv-linkedin" href="https://www.linkedin.com/in/franciscavmacias" target="_blank" rel="noopener" aria-label="Francisca Villagra Macías on LinkedIn"><i class="bi bi-linkedin"></i> LinkedIn</a>
