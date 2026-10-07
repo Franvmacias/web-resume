@@ -1,58 +1,128 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "en/index.html",
+    "href": "en/index.html",
     "title": "Francisca Villagra Macías — CV",
     "section": "",
-    "text": "Product Owner · Ingeniera en Información y Control de Gestión\n\n\nSantiago, Chilefrancisca.villagra8@gmail.com\n\n  LinkedIn"
+    "text": "🌙 Dark mode\n\n\n\nEspañol\n\nProduct Owner · Information & Management Control Engineer\n\n\nSantiago, Chilefrancisca.villagra8@gmail.com\n\n LinkedIn"
   },
   {
-    "objectID": "index.html#resumen-profesional",
-    "href": "index.html#resumen-profesional",
+    "objectID": "en/index.html#professional-summary",
+    "href": "en/index.html#professional-summary",
     "title": "Francisca Villagra Macías — CV",
-    "section": "Resumen profesional",
-    "text": "Resumen profesional\nProduct Owner e Ingeniera en Información y Control de Gestión con diez años de experiencia convirtiendo problemas complejos de datos y riesgo en productos digitales en producción. He liderado ciclos completos de producto —de la definición estratégica a la adopción por usuarios finales— en retail, forestal y servicios financieros, incluidos seis años en Experian bajo normativa CFPB de Estados Unidos. Gestiono producto con conocimiento directo del stack técnico: SQL, Python, Google Cloud Platform (GCP) y Tableau, e implementé en producción modelos de machine learning (K-Means, XGBoost) para el cálculo de riesgo."
+    "section": "Professional Summary",
+    "text": "Professional Summary\nProduct Owner and Information & Management Control Engineer with ten years of experience turning complex data and risk problems into production-grade digital products. I have led full product cycles (from strategic definition to end-user adoption) across retail, forestry and financial services, including six years at Experian under U.S. CFPB regulation. I manage product with hands-on knowledge of the technical stack: SQL, Python, Google Cloud Platform (GCP) and Tableau, and deployed machine learning models (K-Means, XGBoost) to production for risk scoring."
+  },
+  {
+    "objectID": "en/index.html#professional-experience",
+    "href": "en/index.html#professional-experience",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\nIndependent Consultant\n\n\n\n\n\n\nIndependent · Santiago, Chile\n\n\n\nBuilt functional, user-centered web platforms, developing tailored digital solutions.\n\n\nAutomated workflows and processes ⚙️ to eliminate manual tasks, reduce errors and optimize operational time.\n\n\nCreated data visualizations 📊 that turn complex metrics into clear dashboards for strategic decision-making.\n\n\nDeveloped IoT (Internet of Things) projects 🔌 connecting the physical environment with intelligent, automated systems.\n\n\n\n\n\n\nProduct Owner\n\n\n\n\n\n\nCMPC · Santiago, Chile\n\n\n\nDesigned the functional architecture and engineering of the Compliance Data Warehouse on Google Cloud Platform (GCP), bridging Business, Compliance and IT across the organization.\n\n\nCentralized data and automated reporting that was previously produced manually, cutting the man-hours spent on reports and metrics by 70%.\n\n\nLed the modernization of the corporate whistleblower channel across five parallel technical tracks, coordinating internal and external vendors.\n\n\nDrove the evolution of web platforms, CMS and digital communication channels through data-driven backlog prioritization, optimizing conversational flows and measuring conversion impact.\n\n\n\n\n\n\nProduct Owner\n\n\n\n\n\n\nMallplaza · Santiago, Chile\n\n\n\nLed end-to-end development and production rollout of SD Billing, an enterprise billing platform built on SAP, reaching over 100 monthly invoicing operations within just 3 months of launch.\n\n\nImplemented a payment reconciliation process that increased efficiency by 40%, reducing unidentified payments in collections.\n\n\nReplaced lengthy forms with a streamlined flow that sharply cut processing times and boosted Commercial team sales.\n\n\nSecured operational adoption and service continuity through enablement and change management plans with key users.\n\n\nCoordinated engineering and design teams under agile frameworks, owning product vision and backlog.\n\n\n\n\n\n\nData Scientist\n\n\n\n\n\n\nMallplaza · Santiago, Chile\n\n\n\nBuilt and deployed to production the quantitative risk model for Bad Debt Provision Calculation, reducing bad debt provisions by 18%.\n\n\nInstrumented end-to-end automations that improved accuracy in tracking strategic KPIs.\n\n\nDeveloped visualizations and geospatial analysis for decision support using SQL, Python, Google Cloud Platform (GCP), Tableau and QGIS.\n\n\n\n\n\n\nData Management Specialist II\n\n\n\n\n\n\nExperian · Santiago, Chile\n\n\n\nReduced data availability latency from monthly and quarterly schemas to daily frequency (Daily Batch) for banking sector clients.\n\n\nDeployed automated dashboards that accelerated strategic decision-making and maximized the analytical value of available data.\n\n\nDeveloped extract, transform and load (ETL) processes on IBM Db2 and IBM Mainframe, using Alteryx and Tableau.\n\n\n\n\n\n\nCustomer Care Specialist II\n\n\n\n\n\n\nExperian · Santiago, Chile\n\n\n\nEnsured regulatory compliance with CFPB (Consumer Financial Protection Bureau, United States) standards in credit report management.\n\n\nRedesigned service protocols, raising customer satisfaction indicators (CSAT) and mitigating operational non-compliance risk."
+  },
+  {
+    "objectID": "en/index.html#education",
+    "href": "en/index.html#education",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Education",
+    "text": "Education\n\nPostgraduate Diploma in Artificial Intelligence, Emerging Technologies & Digital Leadership — Pontificia Universidad Católica de Chile,  – \nEngineer’s Degree, Information & Management Control — Universidad Andrés Bello,  – \nDiploma, Data Science — Coderhouse,  – \nAssociate’s Degree, Computer Programming — AIEP Professional Institute, 2018 – 2020\nEnglish–Spanish Translator — Ucinf,  –"
+  },
+  {
+    "objectID": "en/index.html#technical-skills",
+    "href": "en/index.html#technical-skills",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nBizagi (BPMN modeling), UiPath Process Mining, SAP (SD billing), SQL, Python, Google Cloud Platform (GCP), BigQuery, Vertex, Azure, Microsoft Power BI (expert level), Tableau, Advanced Excel, ETL, Alteryx, IBM Db2, IBM Mainframe, QGIS, Geographic Information Systems (GIS), Power Apps, Power Automate, Jira, Confluence, MS Project, Project Online/Project 365, Triskell."
+  },
+  {
+    "objectID": "en/index.html#professional-skills",
+    "href": "en/index.html#professional-skills",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Professional Skills",
+    "text": "Professional Skills\nDigital product management, business process modeling in BPMN notation, UiPath Process Mining for as-is process discovery, Value Proposition Canvas for needs discovery, project management, agile frameworks (Scrum, Kanban), backlog prioritization, data modeling, quantitative risk modeling, KPI definition and tracking, process automation, stakeholder management, change management, regulatory compliance."
+  },
+  {
+    "objectID": "en/index.html#certifications",
+    "href": "en/index.html#certifications",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Certifications",
+    "text": "Certifications\n\nClaude 101, Anthropic, \nGoogle Project Management Professional Certificate (v.3), Coursera, \nAgile Project Management, Google, \nProject Execution: Running the Project, Google, \nScrum Master, Certiprof\nLean Six Sigma Green Belt and Yellow Belt\nGenerative AI: Elevate Your Data Science Career, IBM, \nIBM Data Science Practitioner Certificate, IBM, \nIBM Artificial Intelligence Practitioner Certificate V2, IBM, \nDigital Transformation Management, Arizona State University, \nGoogle Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, \nEngineering Project Evaluation, University of Miami,"
+  },
+  {
+    "objectID": "en/index.html#languages",
+    "href": "en/index.html#languages",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Languages",
+    "text": "Languages\nSpanish (native), English (advanced — certified English–Spanish Translator)."
+  },
+  {
+    "objectID": "en/index.html#beyond-the-data",
+    "href": "en/index.html#beyond-the-data",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Beyond the Data",
+    "text": "Beyond the Data\nBeyond spreadsheets, SQL queries and agile methodologies, there is a person with many interests that shape my analytical perspective.\nI am driven by an insatiable curiosity 🔍: I am always trying to understand how things work, explore new technologies or learn something completely different just for the joy of it. That same spark makes me an avid reader 📚, with a weakness for always collecting more books than time allows me to read.\nWhen I switch off my screen, you will find me enjoying good food🍳, experimenting with homemade recipes or discovering new flavors, or occasionally going for a run🏃‍♀️ to clear my mind and recharge.\nUltimately, I believe this combination of technical rigor and eclectic curiosity is what makes every project (and every day) interesting ✨.\n\n“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”\n— Marie Curie"
+  },
+  {
+    "objectID": "en/index.html#shall-we-turn-ideas-into-real-solutions",
+    "href": "en/index.html#shall-we-turn-ideas-into-real-solutions",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Shall we turn ideas into real solutions? 💡",
+    "text": "Shall we turn ideas into real solutions? 💡\nIf your processes feel slow, your data is scattered, or you feel Artificial Intelligence should be working for you (not the other way around), let’s talk.\nI can help you:\n\nAutomate data flows ⚙️ to eliminate manual tasks and reduce errors.\nIntegrate AI into your day-to-day🤖 in practical ways to boost your productivity and your team’s.\nOptimize processes and build products 🚀 focused on real value and measurable outcomes.\n\nIf you have a project in mind or want to make your operations more efficient, get in touch and let’s find the best way to bring it to life. ✉️✨\n\n🎤 Looking for a speaker or facilitator?\nI am also available for talks and workshops on Artificial Intelligence and women in technology, inspiring teams and communities and helping them learn.\n\nEmail meLet’s schedule"
   },
   {
     "objectID": "index.html#experiencia-profesional",
     "href": "index.html#experiencia-profesional",
     "title": "Francisca Villagra Macías — CV",
     "section": "Experiencia profesional",
-    "text": "Experiencia profesional\n\n\n\nProduct Owner\n\n\n07/2025 – 08/2026\n\n\n\nCMPC · Santiago, Chile\n\n\nDiseñé la arquitectura e ingeniería funcional del Data Warehouse de Compliance en Google Cloud Platform (GCP), articulando de forma transversal a Negocio, Compliance y Tecnología.\nCentralicé los datos y automaticé la reportería que antes se producía manualmente, reduciendo en 70% las horas hombre dedicadas a generar reportes y métricas.\nLideré la modernización de la línea de denuncias corporativa en cinco tracks técnicos paralelos, coordinando proveedores internos y externos.\nGestioné la evolución de plataformas web, CMS y canales de comunicación digital mediante backlogs priorizados con datos, optimizando flujos conversacionales y midiendo el impacto en la conversión.\n\n\n\n\n\nProduct Owner\n\n\n07/2024 – 07/2025\n\n\n\nMallplaza · Santiago, Chile\n\n\nLideré el desarrollo end-to-end y el despliegue en producción de SD Billing, plataforma de facturación enterprise sobre SAP, alcanzando más de 100 facturaciones mensuales en solo 3 meses desde el lanzamiento.\nImplementé un proceso de conciliación de pagos que incrementó la eficiencia en 40%, reduciendo los pagos no identificados en el área de cobranza.\nReemplacé formularios extensos por un flujo ágil que redujo drásticamente los tiempos de gestión e impulsó las ventas del equipo Comercial.\nAseguré la adopción operacional y la continuidad del servicio mediante planes de enablement y gestión del cambio con usuarios clave.\nCoordiné equipos de ingeniería y diseño bajo marcos ágiles, gestionando visión de producto y backlog.\n\n\n\n\n\nData Scientist\n\n\n08/2022 – 07/2024\n\n\n\nMallplaza · Santiago, Chile\n\n\nDesarrollé y desplegué en producción el modelo cuantitativo de riesgo para el Cálculo de Provisiones Incobrables, reduciendo las provisiones incobrables en 18%.\nInstrumenté automatizaciones end-to-end que elevaron la precisión en el seguimiento de KPIs estratégicos.\nConstruí visualizaciones y análisis geoespaciales para soporte a la decisión, usando SQL, Python, Google Cloud Platform (GCP), Tableau y QGIS.\n\n\n\n\n\nData Management Specialist II\n\n\n12/2019 – 08/2022\n\n\n\nExperian · Santiago, Chile\n\n\nReduje la latencia de disponibilidad de la información de esquemas mensuales y trimestrales a frecuencia diaria (Daily Batch) para clientes del sector bancario.\nDesplegué dashboards automatizados que aceleraron la toma de decisiones estratégicas y maximizaron el valor analítico de los datos disponibles.\nDesarrollé procesos de extracción, transformación y carga (ETL) sobre IBM Db2 e IBM Mainframe, con Alteryx y Tableau.\n\n\n\n\n\nCustomer Care Specialist II\n\n\n06/2016 – 12/2019\n\n\n\nExperian · Santiago, Chile\n\n\nGaranticé el cumplimiento regulatorio de la normativa CFPB (Consumer Financial Protection Bureau, Estados Unidos) en la gestión de reportes de crédito.\nRediseñé protocolos de atención, elevando los indicadores de satisfacción del cliente (CSAT) y mitigando el riesgo operacional de no conformidad."
+    "text": "Experiencia profesional"
   },
   {
     "objectID": "index.html#educación",
     "href": "index.html#educación",
     "title": "Francisca Villagra Macías — CV",
     "section": "Educación",
-    "text": "Educación\n\nDiplomado en Inteligencia Artificial, Tecnologías Emergentes y Liderazgo Digital — Pontificia Universidad Católica de Chile, 10/2025 – 07/2026\nIngeniería en Información y Control de Gestión — Universidad Andrés Bello, 03/2022 – 09/2024, titulada\nDiploma en Data Science — Coderhouse, 04/2023 – 10/2023\nProgramación Computacional — Instituto Profesional AIEP, 2018 – 2020\nTraductor Inglés-Español — Ucinf, 03/2011 – 04/2015"
+    "text": "Educación"
   },
   {
     "objectID": "index.html#habilidades-técnicas",
     "href": "index.html#habilidades-técnicas",
     "title": "Francisca Villagra Macías — CV",
     "section": "Habilidades técnicas",
-    "text": "Habilidades técnicas\nBizagi (modelado BPMN), UiPath Process Mining, SAP (facturación, módulo SD), SQL, Python, Google Cloud Platform (GCP), BigQuery, Vertex, Azure, Power BI (nivel experto), Tableau, Excel avanzado, ETL, Alteryx, IBM Db2, IBM Mainframe, QGIS, Sistemas de Información Geográfica (GIS), Power Apps, Power Automate, Jira, Confluence, MS Project, Project Online/Project 365, Triskell."
+    "text": "Habilidades técnicas"
   },
   {
     "objectID": "index.html#habilidades-profesionales",
     "href": "index.html#habilidades-profesionales",
     "title": "Francisca Villagra Macías — CV",
     "section": "Habilidades profesionales",
-    "text": "Habilidades profesionales\nGestión de productos digitales, modelado de procesos y sistemas en notación BPMN, UiPath Process Mining para discovery del proceso actual, Value Proposition Canvas para levantamiento de necesidades, gestión de proyectos, marcos ágiles (Scrum, Kanban), priorización de backlog, modelamiento de datos, modelos de riesgo cuantitativo, definición y seguimiento de KPIs, automatización de procesos, gestión de stakeholders, gestión del cambio, cumplimiento regulatorio."
+    "text": "Habilidades profesionales"
   },
   {
     "objectID": "index.html#certificaciones",
     "href": "index.html#certificaciones",
     "title": "Francisca Villagra Macías — CV",
     "section": "Certificaciones",
-    "text": "Certificaciones\n\nClaude 101, Anthropic, 08/2026\nGoogle Project Management Professional Certificate (v.3), Coursera, 07/2026\nAgile Project Management, Google, 07/2026\nProject Execution: Running the Project, Google, 07/2026\nScrum Master, Certiprof\nLean Six Sigma Green Belt y Yellow Belt\nGenerative AI: Elevate Your Data Science Career, IBM, 02/2025\nIBM Data Science Practitioner Certificate, IBM, 10/2024\nIBM Artificial Intelligence Practitioner Certificate V2, IBM, 09/2024\nDigital Transformation Management, Arizona State University, 09/2024\nGoogle Cloud Computing Foundations: Data, ML, and AI in Google Cloud, Google, 03/2024\nEngineering Project Evaluation, University of Miami, 01/2024"
+    "text": "Certificaciones"
   },
   {
     "objectID": "index.html#idiomas",
     "href": "index.html#idiomas",
     "title": "Francisca Villagra Macías — CV",
     "section": "Idiomas",
-    "text": "Idiomas\nEspañol (nativo), Inglés (avanzado, título de Traductor Inglés-Español)."
+    "text": "Idiomas"
+  },
+  {
+    "objectID": "index.html#un-poco-más-allá-de-los-datos",
+    "href": "index.html#un-poco-más-allá-de-los-datos",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "Un poco más allá de los datos",
+    "text": "Un poco más allá de los datos\nFuera de las hojas de cálculo, las consultas SQL y las metodologías ágiles, hay una persona con múltiples intereses que alimentan mi perspectiva analítica.\nMe define una curiosidad inagotable 🔍: siempre estoy buscando entender cómo funcionan las cosas, explorar nuevas tecnologías o aprender algo totalmente distinto por puro gusto. Esa misma chispa me convierte en una lectora empedernida 📚, con la debilidad de acumular siempre más libros de los que el tiempo permite leer.\nCuando apago la pantalla, me encuentras disfrutando de la buena cocina🍳 tanto experimentando con recetas caseras como descubriendo nuevos sabores o, de vez en cuando, saliendo a correr🏃‍♀️ para poner la mente en blanco y recargar energía.\nAl final, creo que esa combinación de orden técnico y curiosidad ecléctica es la que hace que cada proyecto (y cada día) sea interesante ✨.\n\n“En la vida no hay que temer a nada, solo comprenderlo. Ahora es el momento de comprender más, para que temamos menos.”\n— Marie Curie"
+  },
+  {
+    "objectID": "index.html#transformamos-ideas-en-soluciones-reales",
+    "href": "index.html#transformamos-ideas-en-soluciones-reales",
+    "title": "Francisca Villagra Macías — CV",
+    "section": "¿Transformamos ideas en soluciones reales? 💡",
+    "text": "¿Transformamos ideas en soluciones reales? 💡\nSi tus procesos se sienten lentos, los datos están dispersos o sientes que la Inteligencia Artificial debería estar trabajando para ti (y no al revés), hablemos.\nTe puedo ayudar a:\n\nAutomatizar flujos de datos ⚙️ para eliminar tareas manuales y reducir errores.\nIntegrar IA en tu día a día🤖 de forma práctica para potenciar tu productividad y la de tu equipo.\nOptimizar procesos y crear productos 🚀 enfocados en valor real y resultados medibles.\n\nSi tienes un proyecto en mente o buscas darle un giro más eficiente a tu operación, escríbeme y encontremos la mejor forma de hacerlo realidad. ✉️✨\n\n🎤 ¿Buscas una speaker o facilitadora?\nTambién estoy disponible para charlas y talleres sobre Inteligencia Artificial y mujeres en tecnología, impulsando la inspiración y el conocimiento en equipos y comunidades.\n\nEscríbemeAgéndame"
   }
 ]

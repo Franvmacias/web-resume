@@ -16,7 +16,7 @@ lang: en
 
 ## Professional Summary
 
-Product Owner and Information & Management Control Engineer with ten years of experience turning complex data and risk problems into production-grade digital products. I have led full product cycles — from strategic definition to end-user adoption — across retail, forestry and financial services, including six years at Experian under U.S. CFPB regulation. I manage product with hands-on knowledge of the technical stack: SQL, Python, Google Cloud Platform (GCP) and Tableau, and deployed machine learning models (K-Means, XGBoost) to production for risk scoring.
+Product Owner and Information & Management Control Engineer with ten years of experience turning complex data and risk problems into production-grade digital products. I have led full product cycles (from strategic definition to end-user adoption) across retail, forestry and financial services, including six years at Experian under U.S. CFPB regulation. I manage product with hands-on knowledge of the technical stack: SQL, Python, Google Cloud Platform (GCP) and Tableau, and deployed machine learning models (K-Means, XGBoost) to production for risk scoring.
 
 ## Professional Experience
 
