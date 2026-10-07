@@ -9,7 +9,6 @@
     el.classList.add("reveal"); targets.push(el);
   });
   if (reduce || !("IntersectionObserver" in window)) { targets.forEach(function (e) { e.classList.add("visible"); }); return; }
-  document.documentElement.classList.add("reveal-enabled");
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (en) {
       if (en.isIntersecting) { en.target.classList.add("visible"); io.unobserve(en.target); }
