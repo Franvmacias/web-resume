@@ -5,6 +5,7 @@ project:
 website:
   title: "Francisca Villagra Macías"
   navbar: false
+  favicon: favicon.png
 
 format:
   html:
