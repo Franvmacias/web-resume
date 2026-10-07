@@ -9,7 +9,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles-v2.css
     toc: false
     page-layout: article
     embed-resources: false
