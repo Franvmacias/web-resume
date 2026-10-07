@@ -73,6 +73,34 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<script>
+(function () {
+  var key = "cv-theme";
+  if (localStorage.getItem(key) === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    var button = document.querySelector(".cv-theme-toggle");
+    if (!button) return;
+    var english = document.documentElement.lang === "en";
+    function updateButton() {
+      var dark = document.documentElement.getAttribute("data-theme") === "dark";
+      button.setAttribute("aria-pressed", dark ? "true" : "false");
+      button.textContent = dark
+        ? (english ? "☀️ Light mode" : "☀️ Modo claro")
+        : (english ? "🌙 Dark mode" : "🌙 Modo oscuro");
+    }
+    button.addEventListener("click", function () {
+      var dark = document.documentElement.getAttribute("data-theme") !== "dark";
+      if (dark) document.documentElement.setAttribute("data-theme", "dark");
+      else document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem(key, dark ? "dark" : "light");
+      updateButton();
+    });
+    updateButton();
+  });
+})();
+</script>
 </head>
 
 <body class="fullcontent quarto-light">
@@ -106,6 +134,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="cv-cabecera reveal">
+<p><button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Modo oscuro</button></p>
 <p><img class="cv-foto" src="foto.png" alt="Foto de Francisca Villagra Macías"></p>
 <section id="francisca-villagra-macías" class="level1">
 <h1>Francisca Villagra Macías</h1>

@@ -1,1 +1,29 @@
 <meta name="format-detection" content="date=no">
+<script>
+(function () {
+  var key = "cv-theme";
+  if (localStorage.getItem(key) === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    var button = document.querySelector(".cv-theme-toggle");
+    if (!button) return;
+    var english = document.documentElement.lang === "en";
+    function updateButton() {
+      var dark = document.documentElement.getAttribute("data-theme") === "dark";
+      button.setAttribute("aria-pressed", dark ? "true" : "false");
+      button.textContent = dark
+        ? (english ? "☀️ Light mode" : "☀️ Modo claro")
+        : (english ? "🌙 Dark mode" : "🌙 Modo oscuro");
+    }
+    button.addEventListener("click", function () {
+      var dark = document.documentElement.getAttribute("data-theme") !== "dark";
+      if (dark) document.documentElement.setAttribute("data-theme", "dark");
+      else document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem(key, dark ? "dark" : "light");
+      updateButton();
+    });
+    updateButton();
+  });
+})();
+</script>

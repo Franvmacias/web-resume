@@ -8,10 +8,39 @@
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet">
 <link href="../styles.css" rel="stylesheet">
+<script>
+(function () {
+  var key = "cv-theme";
+  if (localStorage.getItem(key) === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    var button = document.querySelector(".cv-theme-toggle");
+    if (!button) return;
+    var english = document.documentElement.lang === "en";
+    function updateButton() {
+      var dark = document.documentElement.getAttribute("data-theme") === "dark";
+      button.setAttribute("aria-pressed", dark ? "true" : "false");
+      button.textContent = dark
+        ? (english ? "☀️ Light mode" : "☀️ Modo claro")
+        : (english ? "🌙 Dark mode" : "🌙 Modo oscuro");
+    }
+    button.addEventListener("click", function () {
+      var dark = document.documentElement.getAttribute("data-theme") !== "dark";
+      if (dark) document.documentElement.setAttribute("data-theme", "dark");
+      else document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem(key, dark ? "dark" : "light");
+      updateButton();
+    });
+    updateButton();
+  });
+})();
+</script>
 </head>
 <body>
 <main id="quarto-content" class="content">
 <div class="cv-cabecera">
+<button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Dark mode</button>
 <img class="cv-foto" src="../foto.png" alt="Photo of Francisca Villagra Macías">
 <h1>Francisca Villagra Macías</h1>
 <a class="cv-idioma" href="../" lang="es">Español</a>

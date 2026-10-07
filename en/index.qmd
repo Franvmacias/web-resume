@@ -4,6 +4,7 @@ lang: en
 ---
 
 <div class="cv-cabecera">
+<button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Dark mode</button>
 <img class="cv-foto" src="../foto.png" alt="Photo of Francisca Villagra Macías">
 
 <h1>Francisca Villagra Macías</h1>

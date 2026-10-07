@@ -30,6 +30,7 @@ proteger_fechas <- function(x) {
 #| results: asis
 cat(sprintf('
 ::: {.cv-cabecera .reveal}
+<button class="cv-theme-toggle" type="button" aria-pressed="false">🌙 Modo oscuro</button>
 <img class="cv-foto" src="foto.png" alt="Foto de %s">
 
 # %s
